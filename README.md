@@ -1,1 +1,1 @@
-this is my loop studio website, both the website and [hone are responsive
+this is my loop studio website, both the website and phone are responsive
